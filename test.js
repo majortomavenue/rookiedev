@@ -6,7 +6,7 @@ shift w q ! is how to get out of VIM editor */
 
 
 
-var message = 'Florida Keys'; 
+var message = 'Mendoza lol'; 
 
 
 console.log(message);
