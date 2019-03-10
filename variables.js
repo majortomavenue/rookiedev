@@ -54,3 +54,34 @@ console.log(dog)
  * 
  * dont forget semi-colons when completing lines of code. We dont need no asi crutch, bitch!
  */
+
+ var age = 21;
+
+ if (age >= 21)  {
+     console.log('welcome!');
+
+ } 
+
+ if (age <=21) {
+    console.log('denied');
+
+ }
+
+ age = 16; 
+
+ if (age >= 16) {
+    console.log ('good to go');
+
+ } else {
+    console.log ('denied');
+
+}
+
+
+
+
+ 
+
+
+
+
