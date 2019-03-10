@@ -15,6 +15,12 @@ var bool = true; // or false
  * 
  * numbers... equal a value 
  * 
+ * git add . 
+ * 
+ * git commit -m 'variables.js'
+ * 
+ * git push
+ * 
  * what is a boolean? Means true of false conditional code in a way
  * 
  * 
