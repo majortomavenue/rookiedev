@@ -6,10 +6,20 @@ var name = 5;
 
 var bool = true; // or false
 
+var dog = { 
+    name: 'Maverick',
+    age: 26,
+    color: 'Golden',
+    isAlive: false
 
+};
+
+console.log(dog)
 
 /**
  * data types
+ * 
+
  * 
  * stuff inside quotation marks are called strings. ''
  * 
@@ -22,6 +32,23 @@ var bool = true; // or false
  * git push
  * 
  * what is a boolean? Means true of false conditional code in a way
+ * 
+ * node for excuting
+ * 
+ * data types Javascript
+ * 
+ * 1. Strings things inside quotes 
+ * 2. Numbers just a value, no quotations needed
+ * 3. Boolean true or false, conditional code
+ * 4. Objects var obj curly braces propities functions methods consists of multiple properties
+ * 5. Null is still an object but nothing
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
  * 
  * 
  * 
